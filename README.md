@@ -1,5 +1,5 @@
-Part 1
+<a href="">Part 1</a>
 <br>
-Part 2
+<a href="">Part 2</a>
 <br>
-Part 3
+<a href="">Part 3</a>
